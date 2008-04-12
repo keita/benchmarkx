@@ -1,0 +1,7 @@
+.gemified
+History.txt
+License.txt
+README.txt
+Rakefile
+lib/benchmarkx.rb
+spec/benchmarkx_spec.rb
