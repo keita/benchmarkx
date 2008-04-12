@@ -1,7 +1,7 @@
 require "rubygems"
 require "rtask"
 
-RTask.new
+RTask.new(:use => :all, :version => BenchmarkX::VERSION)
 
 desc "Run the specs"
 task "spec" do
