@@ -1,0 +1,11 @@
+--- 
+:summary: BenchmarkX is a extension of standard benchmark.rb for rendering sexy graph using gruff.
+:email: keita.yamaguchi@gmail.com
+:has_rdoc: true
+:name: benchmarkx
+:homepage: http://rubyforge.org/projects/benchmarkx/
+:version: "001"
+:dependencies: 
+- gruff
+:rubyforge_project: benchmarkx
+:author: Keita Yamaguchi
